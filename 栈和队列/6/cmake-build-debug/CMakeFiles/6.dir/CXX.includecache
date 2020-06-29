@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wangzilong/Desktop/Study/Assignment/数据结构/上机作业/6/main.cpp
+stdio.h
+/Users/wangzilong/Desktop/Study/Assignment/数据结构/上机作业/6/stdio.h
+

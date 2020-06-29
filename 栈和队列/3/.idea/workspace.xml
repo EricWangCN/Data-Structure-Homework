@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="3" targetName="3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de216e12-5f4a-4783-a007-ea0dddc4e310" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZI7o6MH2O8kCzuGZkRYu9qZlPt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="3" TARGET_NAME="3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="3" RUN_TARGET_NAME="3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de216e12-5f4a-4783-a007-ea0dddc4e310" name="Default Changelist" comment="" />
+      <created>1584514926304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584514926304</updated>
+      <workItem from="1584514933502" duration="108000" />
+      <workItem from="1584515092003" duration="5065000" />
+      <workItem from="1585211794751" duration="114000" />
+      <workItem from="1585403030647" duration="260000" />
+      <workItem from="1586015053372" duration="1166000" />
+      <workItem from="1586134939053" duration="6041000" />
+      <workItem from="1586186489757" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="648" y="271" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1584515051873">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="648" y="271" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.513.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1584515051873" />
+    <state width="1878" height="128" key="GridCell.Tab.0.bottom" timestamp="1586141025544">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1878" height="128" key="GridCell.Tab.0.bottom/1920.513.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1586141025544" />
+    <state width="1878" height="859" key="GridCell.Tab.0.bottom/585.1103.1116.733/1920.331.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1585209601177" />
+    <state width="1878" height="128" key="GridCell.Tab.0.center" timestamp="1586141025544">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1878" height="128" key="GridCell.Tab.0.center/1920.513.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1586141025544" />
+    <state width="1878" height="859" key="GridCell.Tab.0.center/585.1103.1116.733/1920.331.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1585209601176" />
+    <state width="1878" height="128" key="GridCell.Tab.0.left" timestamp="1586141025543">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1878" height="128" key="GridCell.Tab.0.left/1920.513.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1586141025543" />
+    <state width="1878" height="859" key="GridCell.Tab.0.left/585.1103.1116.733/1920.331.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1585209601175" />
+    <state width="1878" height="128" key="GridCell.Tab.0.right" timestamp="1586141025544">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state width="1878" height="128" key="GridCell.Tab.0.right/1920.513.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1586141025544" />
+    <state width="1878" height="859" key="GridCell.Tab.0.right/585.1103.1116.733/1920.331.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1585209601176" />
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1586134941038">
+      <screen x="0" y="23" width="1920" height="1011" />
+    </state>
+    <state x="653" y="361" key="com.intellij.ide.util.TipDialog/1920.513.1440.877/0.23.1920.1011@0.23.1920.1011" timestamp="1586134941038" />
+  </component>
+</project>
